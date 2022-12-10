@@ -1,0 +1,2 @@
+afi= "abcdefghijklmnopqrstuvwxyz"
+    puts afi
